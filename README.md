@@ -28,7 +28,7 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 1. Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
 2. Enter your desired stretch resolution width and height (default: 1440x1080)
 3. Check or uncheck **Apply Performance Upgrade** depending on your preference
-4. Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled — this is what allows the stretch to work without Valorant overriding it
+4. Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should selct them all) — this is what allows the stretch to work without Valorant overriding it
 5. Click **Install & Apply** and accept the UAC prompt
 6. Done — a shortcut called **StretchyVal** will appear on your desktop
 
