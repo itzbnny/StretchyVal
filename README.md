@@ -3,7 +3,8 @@
   StretchyVal
 </h1>
 
-*THIS WAS VIBE CODED AS A CHALLANGE TO PROVE AI CAN"T REPLACE HUMAN CODERS SO PLEASE DON"T JUDGE TOO HARD (getting a working product and forcing it to fix bugs itself is harder then you think, I was frustratingly hands off the code for the most part) I dont know whether to be happy or sad it works* Thank you for your support and understanding, I work with java not python cause I make minecraft mods lol.
+*THIS WAS VIBE CODED AS A CHALLANGE TO PROVE AI CAN"T REPLACE HUMAN CODERS SO PLEASE DON"T JUDGE TOO HARD (getting a working product and forcing it to fix bugs itself is harder then you think, I was frustratingly hands off the code for the most part) I dont know whether to be happy or sad it works* I work with java not python cause I make minecraft mods lol, but thank you for your support and understanding, and if you would like to support the further develoment of this tool and other like it feel free to check out my Ko-Fi and Discord.
+Donations are welcome and very appreciated but not required      https://ko-fi.com/itzbnny      https://ko-fi.com/itzbnny
 
 A lightweight Windows utility that automates stretched resolution for Valorant. It patches the game config, applies your chosen resolution before launch, and restores your native resolution automatically when you close the game — no manual steps required.
 
