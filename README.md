@@ -122,4 +122,4 @@ No data is collected, transmitted, or stored outside your local machine. The ful
 
 ## Credits
 
-Built to solve a real problem. Monitors are disabled using `pnputil.exe`, a Microsoft-signed tool built into Windows. Resolution switching uses `SetScreenResolution.exe` by [4r5t6y7](https://github.com/4r5t6y7/SetScreenResolution) or equivalent.
+Built to solve a real problem. Monitors are disabled using `pnputil.exe`, a Microsoft-signed tool built into Windows. Resolution switching uses `SetScreenResolution.exe` by [4r5t6y7](https://github.com/4r5t6y7/SetScreenResolution) or equivalent. Logo by u/Odeuo https://www.reddit.com/user/Odeuo/.
