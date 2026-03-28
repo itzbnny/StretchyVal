@@ -3,7 +3,7 @@
   StretchyVal
 </h1>
 
-THIS WAS VIBE CODED AS A CHALLANGE TO PROVE AI CAN"T REPLACE HUMAN CODERS SO PLEASE DON"T JUDGE TOO HARD (getting a working product and forcing it to fix bugs itself is harder then you think, I was frustratingly hands off the code for the most part) I dont know wheather to be happy or sad it works
+THIS WAS VIBE CODED AS A CHALLANGE TO PROVE AI CAN"T REPLACE HUMAN CODERS SO PLEASE DON"T JUDGE TOO HARD (getting a working product and forcing it to fix bugs itself is harder then you think, I was frustratingly hands off the code for the most part) I dont know whether to be happy or sad it works
 
 A lightweight Windows utility that automates stretched resolution for Valorant. It patches the game config, applies your chosen resolution before launch, and restores your native resolution automatically when you close the game — no manual steps required.
 
