@@ -35,7 +35,7 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 3. Check or uncheck **Apply Performance Upgrade** depending on your preference
 4. Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should select them all) — this is what allows the stretch to work without Valorant overriding it
 5. Click **Install & Apply** and accept the UAC prompt
-6. Done — a shortcut called **StretchyVal** will appear on your desktop
+6. Done — a shortcut called **StretchyVal** will appear on your desktop. You can use this to open Valorant from now on (I don't even have the official shortcut on my desktop anymore), and if you want to revert the settings, just renable your monitors in device manager and launch Valorant from the official launcher, from there you can edit your settngs like vanilla.
 
 From now on, just double-click the shortcut instead of launching Valorant directly.
 
