@@ -50,7 +50,7 @@ Riot syncs display settings from their servers per account. If you see black bar
 From now on, just double-click the shortcut instead of launching Valorant directly.
 
 
-If you want to change resolutions delete the sortcut and redo the install launcher
+If you want to change resolutions delete the shortcut, open valorant through the official launcher and redo step 1, and finally redo the install launcher setup process
 
 ---
 
