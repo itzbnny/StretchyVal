@@ -152,7 +152,6 @@ No data is collected, transmitted, or stored outside your local machine. The ful
 ## Known Limitations
 
 - Only tested with Valorant. Not designed for other games.
-- Requires `SetScreenResolution.exe` to be present alongside the executable
 - Monitor re-enable after uninstall is a manual step (see above)
 
 ---
