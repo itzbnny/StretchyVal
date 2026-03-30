@@ -39,7 +39,7 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 
 If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, then resume setup.
 
-1. Run Valorant vanilla first i you haven't so your configs are created
+1. Run Valorant vanilla first if you haven't so your configs are created
 2. IF YOU HAVE MULTIPLE ACCOUNTS MAKE SURE RIOT CLIENT IS OPEN AND LOGGED IN BEFORE LAUNCHING STRETCHYVAL
 3. Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
 4. Enter your desired stretch resolution width and height (default: 1440x1080)
