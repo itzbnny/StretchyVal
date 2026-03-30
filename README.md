@@ -40,14 +40,14 @@ The best Valorant True Stretched Resolution tool for NVIDIA and AMD. Get true st
 
 If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, then resume setup.
 
-1. Run Valorant vanilla first if you haven't so your configs are created
-2. IF YOU HAVE MULTIPLE ACCOUNTS MAKE SURE RIOT CLIENT IS OPEN AND LOGGED IN BEFORE LAUNCHING STRETCHYVAL
-3. Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
-4. Enter your desired stretch resolution width and height (default: 1440x1080)
-5. Check or uncheck **Apply Performance Upgrade** depending on your preference
-6. Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should select them all) — this is what allows the stretch to work without Valorant overriding it
-7. Click **Install & Apply** and accept the UAC prompt
-8. Done — a shortcut called **StretchyVal** will appear on your desktop. You can use this to open Valorant from now on (I don't even have the official shortcut on my desktop anymore), and if you want to revert the settings, just renable your monitors in device manager and launch Valorant from the official launcher, from there you can edit your settngs like vanilla.
+- Run Valorant vanilla first if you haven't so your configs are created
+- IF YOU HAVE MULTIPLE ACCOUNTS MAKE SURE RIOT CLIENT IS OPEN AND LOGGED IN BEFORE LAUNCHING STRETCHYVAL
+- Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
+- Enter your desired stretch resolution width and height (default: 1440x1080)
+- Check or uncheck **Apply Performance Upgrade** depending on your preference
+- Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should select them all) — this is what allows the stretch to work without Valorant overriding it
+- Click **Install & Apply** and accept the UAC prompt
+- Done — a shortcut called **StretchyVal** will appear on your desktop. You can use this to open Valorant from now on (I don't even have the official shortcut on my desktop anymore), and if you want to revert the settings, just renable your monitors in device manager and launch Valorant from the official launcher, from there you can edit your settngs like vanilla.
 
 
 From now on, just double-click the shortcut instead of launching Valorant directly.
