@@ -34,6 +34,9 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 
 ## Setup
 
+[Download Latest Release](https://github.com/itzbnny/StretchyVal/releases/tag/StretchyValV1.01)
+
+
 If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, then resume setup.
 
 1. Run Valorant vanilla first i you haven't so your configs are created
