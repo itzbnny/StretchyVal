@@ -34,7 +34,9 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 
 ## Setup
 
-1. Run Valorant and make sure your video settings are set to windowed fullscreen/fill before running StretchyVal
+If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, then resume setup.
+
+1. Run Valorant vanilla first i you haven't so your configs are created
 2. IF YOU HAVE MULTIPLE ACCOUNTS MAKE SURE RIOT CLIENT IS OPEN AND LOGGED IN BEFORE LAUNCHING STRETCHYVAL
 3. Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
 4. Enter your desired stretch resolution width and height (default: 1440x1080)
@@ -44,13 +46,32 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 8. Done — a shortcut called **StretchyVal** will appear on your desktop. You can use this to open Valorant from now on (I don't even have the official shortcut on my desktop anymore), and if you want to revert the settings, just renable your monitors in device manager and launch Valorant from the official launcher, from there you can edit your settngs like vanilla.
 
 
-!!!! Black bars on first launch?
-Riot syncs display settings from their servers per account. If you see black bars the first time you launch through StretchyVal, go into Valorant's video settings, set Display Mode to Windowed Fullscreen and Aspect Ratio Method to Fill, then click Apply. Close and relaunch through StretchyVal — it will stick from that point forward. If you have multiple accounts, you'll need to do this once per account.
-
 From now on, just double-click the shortcut instead of launching Valorant directly.
 
 
 If you want to change resolutions delete the shortcut, open valorant through the official launcher and redo step 1, and finally redo the install launcher setup process
+
+
+## AMD GPUS
+
+AMD — Adding a Custom Resolution:
+
+Right-click the desktop → AMD Software: Adrenalin Edition
+Click the Display tab at the top
+Scroll down and click Custom Resolutions
+Click + Create New
+Enter your desired Width (e.g. 1440) and Height (e.g. 1080)
+Leave refresh rate at your monitor's native rate
+Click Save — the screen will briefly go black to test it
+If compatible, it saves as a preset under Custom Resolutions
+Apply it via Windows Display Settings or set it as your desktop resolution before launching StretchyVal
+
+AMD — GPU Scaling (to prevent black bars):
+
+In AMD Software, go to the Display tab
+Find GPU Scaling and toggle it On
+Set Scaling Mode to Full Panel
+Click Apply
 
 ---
 
