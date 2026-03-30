@@ -53,6 +53,7 @@ If you want to change resolutions delete the shortcut, open valorant through the
 
 
 ## AMD GPUS
+DO BOTH STEPS BEFORE STRETCHYVAL SETUP
 
 AMD — Adding a Custom Resolution:
 
