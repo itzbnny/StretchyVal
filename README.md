@@ -4,8 +4,8 @@
 </h1>
 
 Donations are welcome and very appreciated but not required   
-https://ko-fi.com/itzbnny      
-https://discord.gg/VMSSNYPh8m
+Ko-Fi - https://ko-fi.com/itzbnny      
+Discord - https://discord.gg/VMSSNYPh8m
 
 # StretchyVal
 
