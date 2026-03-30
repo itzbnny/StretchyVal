@@ -33,7 +33,7 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 
 ## Setup
 
-1. Run Valorant and make sure your video settings are set to fullscreen letterbox before running StretchyVal
+1. Run Valorant and make sure your video settings are set to windowed fullscreen/fill before running StretchyVal
 2. Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
 3. Enter your desired stretch resolution width and height (default: 1440x1080)
 4. Check or uncheck **Apply Performance Upgrade** depending on your preference
