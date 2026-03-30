@@ -48,6 +48,8 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 Riot syncs display settings from their servers per account. If you see black bars the first time you launch through StretchyVal, go into Valorant's video settings, set Display Mode to Windowed Fullscreen and Aspect Ratio Method to Fill, then click Apply. Close and relaunch through StretchyVal — it will stick from that point forward. If you have multiple accounts, you'll need to do this once per account.
 
 From now on, just double-click the shortcut instead of launching Valorant directly.
+
+
 If you want to change resolutions delete the sortcut and redo the install launcher
 
 ---
