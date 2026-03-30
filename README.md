@@ -140,7 +140,6 @@ The output will be in the `dist/` folder.
 
 This tool makes the following changes to your system:
 
-- Writes a config file to `%APPDATA%\StretchyValConfig.json`
 - Saves native resolution data to `Documents\StretchyVal\native_res.json`
 - Modifies `GameUserSettings.ini` inside your Valorant local app data folder
 - Disables selected monitor devices via `pnputil.exe` (built into Windows)
