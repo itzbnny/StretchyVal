@@ -8,7 +8,7 @@ Donations are welcome and very appreciated but not required
 https://ko-fi.com/itzbnny      
 https://discord.gg/VMSSNYPh8m
 
-A lightweight Windows utility that automates stretched resolution for Valorant. It patches the game config, applies your chosen resolution before launch, and restores your native resolution automatically when you close the game — no manual steps required.
+StretchyVal: The best Valorant True Stretched Resolution tool for NVIDIA and AMD. Get true stretched res in 2026 without input lag in ONE CLICK.
 
 ---
 
