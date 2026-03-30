@@ -55,6 +55,8 @@ From now on, just double-click the shortcut instead of launching Valorant direct
 
 *If you want to change resolutions delete the shortcut and redo the setup launcher*
 
+*If you want to stop playing stretched turn your Monitors back on in Device Manager, Unistall Valorant, Delete the VALORANT FOLDER in %localappdata%, and reinstall Valorant*
+
 
 ## AMD GPUS
 DO BOTH STEPS BEFORE STRETCHYVAL SETUP
