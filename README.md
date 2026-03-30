@@ -64,7 +64,7 @@ Enter your desired Width (e.g. 1440) and Height (e.g. 1080)
 Leave refresh rate at your monitor's native rate
 Click Save — the screen will briefly go black to test it
 If compatible, it saves as a preset under Custom Resolutions
-Apply it via Windows Display Settings or set it as your desktop resolution before launching StretchyVal
+Now you can input that resolution into the StretchyVal Setup Launcher
 
 AMD — GPU Scaling (to prevent black bars):
 
