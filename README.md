@@ -60,27 +60,27 @@ DO BOTH STEPS BEFORE STRETCHYVAL SETUP
 
 AMD — Adding a Custom Resolution:
 
-Right-click the desktop → AMD Software: Adrenalin Edition
+-Right-click the desktop → AMD Software: Adrenalin Edition
 
-Click the Setting Gear in the top right
+-Click the Setting Gear in the top right
 
-Click the Display tab at the top
+-Click the Display tab at the top
 
-Scroll down and click Custom Resolutions
+-Scroll down and click Custom Resolutions
 
-Click + Create New
+-Click + Create New
 
-Enter your desired Width (e.g. 1440) and Height (e.g. 1080)
+-Enter your desired Width (e.g. 1440) and Height (e.g. 1080)
 
-Leave refresh rate at your monitor's native rate or lower if it won't work.
+-Leave refresh rate at your monitor's native rate or lower if it won't work.
 
-Set Timing Standards to CVT or DMT.
+-Set Timing Standards to CVT or DMT.
 
-Click Save — the screen will briefly go black to test it
+-Click Save — the screen will briefly go black to test it
 
-If compatible, it saves as a preset under Custom Resolutions
+-If compatible, it saves as a preset under Custom Resolutions
 
-Now you can input that resolution into the StretchyVal Setup Launcher
+-Now you can input that resolution into the StretchyVal Setup Launcher
 
 AMD — GPU Scaling (to prevent black bars):
 
