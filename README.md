@@ -87,7 +87,7 @@ AMD — GPU Scaling (to prevent black bars):
 - In AMD Software, go to the Display tab
 Find GPU Scaling and toggle it On
 
--Set Scaling Mode to Full Panel
+- Set Scaling Mode to Full Panel
 Click Apply
 
 ---
