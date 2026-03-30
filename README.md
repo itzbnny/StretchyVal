@@ -114,17 +114,6 @@ You do not need to keep any window open. The background process exits on its own
 
 ---
 
-## File Structure (Source)
-
-```
-StretchyVal/
-├── StretchyVal.py
-├── SetScreenResolution.exe
-└── redyellow.ico          (optional — used for the desktop shortcut icon)
-```
-
----
-
 ## Building from Source
 
 ```bash
