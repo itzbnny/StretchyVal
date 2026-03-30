@@ -53,7 +53,7 @@ If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, the
 From now on, just double-click the shortcut instead of launching Valorant directly.
 
 
-If you want to change resolutions delete the shortcut, open valorant through the official launcher and redo step 1, and finally redo the install launcher setup process
+If you want to change resolutions delete the shortcut, redo the setup launcher
 
 
 ## AMD GPUS
