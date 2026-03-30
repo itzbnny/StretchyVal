@@ -33,12 +33,13 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 
 ## Setup
 
-1. Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
-2. Enter your desired stretch resolution width and height (default: 1440x1080)
-3. Check or uncheck **Apply Performance Upgrade** depending on your preference
-4. Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should select them all) — this is what allows the stretch to work without Valorant overriding it
-5. Click **Install & Apply** and accept the UAC prompt
-6. Done — a shortcut called **StretchyVal** will appear on your desktop. You can use this to open Valorant from now on (I don't even have the official shortcut on my desktop anymore), and if you want to revert the settings, just renable your monitors in device manager and launch Valorant from the official launcher, from there you can edit your settngs like vanilla.
+1. Run Valorant and make sure your video settings are set to fullscreen letterbox before running StretchyVal
+2. Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
+3. Enter your desired stretch resolution width and height (default: 1440x1080)
+4. Check or uncheck **Apply Performance Upgrade** depending on your preference
+5. Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should select them all) — this is what allows the stretch to work without Valorant overriding it
+6. Click **Install & Apply** and accept the UAC prompt
+7. Done — a shortcut called **StretchyVal** will appear on your desktop. You can use this to open Valorant from now on (I don't even have the official shortcut on my desktop anymore), and if you want to revert the settings, just renable your monitors in device manager and launch Valorant from the official launcher, from there you can edit your settngs like vanilla.
 
 
 !!!! Black bars on first launch?
