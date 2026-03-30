@@ -39,6 +39,8 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 4. Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should select them all) — this is what allows the stretch to work without Valorant overriding it
 5. Click **Install & Apply** and accept the UAC prompt
 6. Done — a shortcut called **StretchyVal** will appear on your desktop. You can use this to open Valorant from now on (I don't even have the official shortcut on my desktop anymore), and if you want to revert the settings, just renable your monitors in device manager and launch Valorant from the official launcher, from there you can edit your settngs like vanilla.
+!!!! Black bars on first launch?
+Riot syncs display settings from their servers per account. If you see black bars the first time you launch through StretchyVal, go into Valorant's video settings, set Display Mode to Windowed Fullscreen and Aspect Ratio Method to Fill, then click Apply. Close and relaunch through StretchyVal — it will stick from that point forward. If you have multiple accounts, you'll need to do this once per account.
 
 From now on, just double-click the shortcut instead of launching Valorant directly.
 
