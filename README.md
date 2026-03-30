@@ -31,6 +31,8 @@ A lightweight Windows utility that automates stretched resolution for Valorant. 
 
 ---
 
+IF YOU HAVE MULTIPLE ACCOUNTS MAKE SURE RIOT CLIENT IS OPEN AND LOGGED IN BEFORE LAUNCHING STRETCHY VAL
+
 ## Setup
 
 1. Run Valorant and make sure your video settings are set to windowed fullscreen/fill before running StretchyVal
