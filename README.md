@@ -136,6 +136,7 @@ No data is collected, transmitted, or stored outside your local machine. The ful
 
 - Only tested with Valorant. Not designed for other games.
 - Monitor re-enable after uninstall is a manual step (see above)
+- Custom Resolutions don't currently work (I WAS working on it but reddit users couldn't help but bully me for using ai, so I will only resume when I see an actual interest in me resuming)
 
 ---
 
