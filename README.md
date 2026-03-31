@@ -12,6 +12,10 @@ Discord - https://discord.gg/VMSSNYPh8m
 The best Valorant True Stretched Resolution tool for NVIDIA and AMD. Get true stretched res in 2026 without input lag in ONE CLICK.
 
 ---
+Yes this was vibe coded, get over it.
+
+---
+
 
 ## What It Does
 
@@ -35,7 +39,7 @@ The best Valorant True Stretched Resolution tool for NVIDIA and AMD. Get true st
 
 ## Setup
 
-[Download Latest Release](https://github.com/itzbnny/StretchyVal/releases/tag/StretchyValV1.01)
+[Download Latest Release](https://github.com/itzbnny/StretchyVal/releases/tag/StretchyVal1.2)
 
 
 If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, then resume setup.
@@ -43,7 +47,7 @@ If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, the
 - Run Valorant vanilla first if you haven't so your configs are created
 - IF YOU HAVE MULTIPLE ACCOUNTS MAKE SURE RIOT CLIENT IS OPEN AND LOGGED IN BEFORE LAUNCHING STRETCHYVAL
 - Run `StretchyVal.exe` (or `StretchyVal.py` if using source)
-- Enter your desired stretch resolution width and height (default: 1440x1080)
+- Select desired resolution from drop down
 - Check or uncheck **Apply Performance Upgrade** depending on your preference
 - Under **Disable these monitors before launching Valorant**, check the monitor(s) you want disabled (unless you have two pcs connected for streaming or recording you should select them all) — this is what allows the stretch to work without Valorant overriding it
 - Click **Install & Apply** and accept the UAC prompt
@@ -53,37 +57,11 @@ If you have an AMD GPU [click here](#amd-gpus) and follow those steps first, the
 From now on, just double-click the shortcut instead of launching Valorant directly.
 
 
-*If you want to change resolutions delete the shortcut and redo the setup launcher*
+*If you want to change resolutions restart the setup launcher, click unistall, start the setup launcher again and select you desired resolution, and finally complete the setup as usual.*
 
-*If you want to stop playing stretched turn your Monitors back on in Device Manager, Unistall Valorant, Delete the VALORANT FOLDER in %localappdata%, and reinstall Valorant*
-
+*If you want to stop playing stretched open the setup launcher, select uninstall, then launch valorant and adjust your video settings as usual, valorant should behave as normal*
 
 ## AMD GPUS
-DO BOTH STEPS BEFORE STRETCHYVAL SETUP
-
-AMD — Adding a Custom Resolution:
-
-- Right-click the desktop → AMD Software: Adrenalin Edition
-
-- Click the Setting Gear in the top right
-
-- Click the Display tab at the top
-
-- Scroll down and click Custom Resolutions
-
-- Click + Create New
-
-- Enter your desired Width (e.g. 1440) and Height (e.g. 1080)
-
-- Leave refresh rate at your monitor's native rate or lower if it won't work.
-
-- Set Timing Standards to CVT or DMT.
-
-- Click Save — the screen will briefly go black to test it
-
-- If compatible, it saves as a preset under Custom Resolutions
-
-- Now you can input that resolution into the StretchyVal Setup Launcher
 
 AMD — GPU Scaling (to prevent black bars):
 
@@ -163,4 +141,4 @@ No data is collected, transmitted, or stored outside your local machine. The ful
 
 ## Credits
 
-Built to solve a real problem. Monitors are disabled using `pnputil.exe`, a Microsoft-signed tool built into Windows. Resolution switching uses `SetScreenResolution.exe` by [4r5t6y7](https://github.com/4r5t6y7/SetScreenResolution) or equivalent. Logo by u/Odeuo https://www.reddit.com/user/Odeuo/.
+Built to solve a real problem. Monitors are disabled using `pnputil.exe`, a Microsoft-signed tool built into Windows. Resolution switching uses `SetScreenResolution.exe` by [gurnec](https://github.com/gurnec/SetScreenResolution) or equivalent. Logo by u/Odeuo https://www.reddit.com/user/Odeuo/.
