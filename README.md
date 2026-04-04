@@ -9,7 +9,7 @@ Discord - https://discord.gg/VMSSNYPh8m
 
 # StretchyVal
 
-The best Valorant True Stretched Resolution tool for NVIDIA and AMD. Get true stretched res in 2026 without input lag in ONE CLICK.
+The best Valorant True Stretched Resolution tool for NVIDIA and AMD. Get true stretched res in 2026 without sacrificing refresh rate in ONE CLICK.
 
 ---
 Yes this was vibe coded, get over it.
